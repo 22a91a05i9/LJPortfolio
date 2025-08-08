@@ -5,13 +5,12 @@ const Projects = [
         img : "",
         gitrepo : "",
         blog : "",
-        tech_stack : "HTML | CSS | JAVASCRIPT | React | Redux | MongoDB | Express | Nodejs",
+        tech_stack : "HTML | CSS | JAVASCRIPT | React | MongoDB | Express | Nodejs | Typescript | Vite",
         tech_stackicons : [
             `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
             `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
             `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>`,
             `<img src="https://img.icons8.com/color/50/000000/react-native.png"/>`,
-            `<img src="https://img.icons8.com/color/48/000000/redux.png"/>`,
             `<img src="https://img.icons8.com/windows/48/000000/node-js.png"/>`,
             `<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>`,
             `<img src="https://img.icons8.com/color/48/000000/express.png"/>`
@@ -24,9 +23,9 @@ const Projects = [
         name : "ML Web Disease Cancer Prediction with Precision",
         about : "ML web application for disease and cancer prediction, to encompass data processing and model deployment.",
         img : "",
-        gitrepo : "",
+        gitrepo : "https://github.com/22a91a05i9/ML-with-web",
         blog : "https://medium.com/@vdbhavani.648/specsmakers-clone-8e0434e3ed0e",
-        tech_stack : "HTML | CSS | JAVASCRIPT | API | JSON-SERVER",
+        tech_stack : "HTML | CSS | JAVASCRIPT | API | Python | Flask | ML | Scikit-learn | Joblib",
         tech_stackicons : [
         `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
         `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
@@ -41,10 +40,10 @@ const Projects = [
     {
         name : "Hospital Pre-Booking Web Application",
         about : "Web application for hospital pre-bookings, to streamline the appointments and administrative tasks.",
-        img : "https://content.shop4reebok.com/static/hero/Sneeker_Fest_1920x800_091221_2.jpg",
+        img : "",
         gitrepo : "",
         blog : "https://medium.com/@suraj.devere/shop4reebok-clone-eddfa7c32fe7",
-        tech_stack : "HTML | CSS | JAVASCRIPT",
+        tech_stack : "HTML | CSS | JAVASCRIPT | React | TypeScript | Tailwind CSS",
         tech_stackicons : [
             `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
             `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
@@ -62,7 +61,7 @@ const Projects = [
         img : "",
         gitrepo : "",
         blog : "",
-        tech_stack : "HTML | CSS | JAVASCRIPT | React | Redux | MongoDB | Express | Nodejs | Bootstrap",
+        tech_stack : "Python",
         tech_stackicons : [
             `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
             `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
@@ -72,8 +71,7 @@ const Projects = [
             `<img src="https://img.icons8.com/windows/48/000000/node-js.png"/>`,
             `<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>`,
             `<img src="https://img.icons8.com/color/48/000000/express.png"/>`,
-            `<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>`
-            
+            `<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>` 
         ],
         project_link : "",
         project_type : "Team Project",
@@ -86,7 +84,7 @@ const Projects = [
         img : "./images/SmartStick.jpg",
         gitrepo : "",
         blog : "",
-        tech_stack : "HTML | CSS | JAVASCRIPT | API's",
+        tech_stack : "C | Arduino | Sensors | RF Module | GPS Module | GSM Module | IoT | Accelorometer | Ultrasonic Sensor | Water Sensor",
         tech_stackicons : [
             `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
             `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,

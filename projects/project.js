@@ -2,7 +2,7 @@ const Projects = [
     {
         name : "AI-Driven Portfolio Creator",
         about : "AI-driven platform for generating diverse digital portfolios, utilizing the artificial intelligence for content curation.",
-        img : "",
+        img : "https://cdn.prod.website-files.com/622ace2cfb122256cc648db3/67b821885b377dd7fc44fe65_AI%20Portfolio%20Generator.png",
         gitrepo : "",
         blog : "",
         tech_stack : "HTML | CSS | JAVASCRIPT | React | MongoDB | Express | Nodejs | Typescript | Vite",
@@ -13,7 +13,9 @@ const Projects = [
             `<img src="https://img.icons8.com/color/50/000000/react-native.png"/>`,
             `<img src="https://img.icons8.com/windows/48/000000/node-js.png"/>`,
             `<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>`,
-            `<img src="https://img.icons8.com/color/48/000000/express.png"/>`
+            `<img src="https://img.icons8.com/color/48/000000/express.png"/>`,
+            `<img src="https://img.icons8.com/color/48/000000/typescript.png"/>`,
+            `<img src="https://img.icons8.com/color/50/000000/vite.png"/>`
         ],
         project_link : "",
         project_type : "Team Project",
@@ -22,7 +24,7 @@ const Projects = [
     {
         name : "ML Web Disease Cancer Prediction with Precision",
         about : "ML web application for disease and cancer prediction, to encompass data processing and model deployment.",
-        img : "",
+        img : "./images/CancerPrediction.png",
         gitrepo : "https://github.com/22a91a05i9/ML-with-web",
         blog : "https://medium.com/@vdbhavani.648/specsmakers-clone-8e0434e3ed0e",
         tech_stack : "HTML | CSS | JAVASCRIPT | API | Python | Flask | ML | Scikit-learn | Joblib",
@@ -31,7 +33,8 @@ const Projects = [
         `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
         `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>`,
         `<img src="https://img.icons8.com/nolan/64/api-settings.png" width="48px"/>`,
-        `<img src="https://img.icons8.com/windows/48/000000/node-js.png"/>`
+        `<img src="https://img.icons8.com/color/48/000000/python.png"/>`,
+        `<img src="https://img.icons8.com/color/50/000000/flask.png"/>`,
         ],
         project_link : "",
         project_type : "Team Project",
@@ -40,14 +43,18 @@ const Projects = [
     {
         name : "Hospital Pre-Booking Web Application",
         about : "Web application for hospital pre-bookings, to streamline the appointments and administrative tasks.",
-        img : "",
-        gitrepo : "",
+        img : "./images/Hospital.png",
+        gitrepo : "https://github.com/22a91a05i9/Hospital_Pre-Booking_Web_Application",
         blog : "https://medium.com/@suraj.devere/shop4reebok-clone-eddfa7c32fe7",
-        tech_stack : "HTML | CSS | JAVASCRIPT | React | TypeScript | Tailwind CSS",
+        tech_stack : "HTML | CSS | JAVASCRIPT | React | TypeScript | Tailwind CSS | Vite",
         tech_stackicons : [
             `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
             `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
             `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>`,
+            `<img src="https://img.icons8.com/color/50/000000/react-native.png"/>`,
+            `<img src="https://img.icons8.com/color/48/000000/typescript.png"/>`,
+            `<img src="https://img.icons8.com/color/50/000000/tailwindcss.png"/>`,
+            `<img src="https://img.icons8.com/color/50/000000/vite.png"/>`
             
         ],
         project_link : "",
@@ -58,20 +65,13 @@ const Projects = [
     {
         name : "Zoom-like App Emotion Detection of Students",
         about : "Video conferencing application with real-time student emotion detection using advanced computer vision and machine learning.",
-        img : "",
+        img : "https://datamagiclab.com/wp-content/uploads/2023/06/emotion_detection.webp",
         gitrepo : "",
         blog : "",
-        tech_stack : "Python",
+        tech_stack : "Python | Opencv",
         tech_stackicons : [
-            `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
-            `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
-            `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>`,
-            `<img src="https://img.icons8.com/color/50/000000/react-native.png"/>`,
-            `<img src="https://img.icons8.com/color/48/000000/redux.png"/>`,
-            `<img src="https://img.icons8.com/windows/48/000000/node-js.png"/>`,
-            `<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>`,
-            `<img src="https://img.icons8.com/color/48/000000/express.png"/>`,
-            `<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>` 
+            `<img src="https://img.icons8.com/color/48/000000/python.png"/>`,
+            `<img src="https://img.icons8.com/?size=50&id=apebs8fnmi4m&format=png&color=000000"/>`
         ],
         project_link : "",
         project_type : "Team Project",
@@ -86,11 +86,11 @@ const Projects = [
         blog : "",
         tech_stack : "C | Arduino | Sensors | RF Module | GPS Module | GSM Module | IoT | Accelorometer | Ultrasonic Sensor | Water Sensor",
         tech_stackicons : [
-            `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
-            `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
-            `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>`,
-            `<img src="https://img.icons8.com/nolan/64/api-settings.png" width="48px"/>`
-            
+            `<img src="https://img.icons8.com/?size=50&id=40670&format=png&color=000000" />`,
+            `<img src="https://img.icons8.com/?size=50&id=13444&format=png&color=000000"/>`,
+            `<img src="https://img.icons8.com/?size=50&id=akj7Se2rlCPX&format=png&color=000000"/>`,
+            `<img src="https://img.icons8.com/?size=50&id=OfSWfBwnQR8e&format=png&color=000000"/>`,
+            `<img src="https://img.icons8.com/?size=50&id=uVHiOKL11CSm&format=png&color=000000"/>`
         ],
         project_link : "",
         project_type : "Team Project",
